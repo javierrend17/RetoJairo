@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 const divBody = document.querySelector("#app")
 
 divBody.innerHTML = `
@@ -66,4 +64,3 @@ function buscarPokemon(){
     VolverButton.addEventListener('click', () => {location.reload();});
   });
 }
->>>>>>> Stashed changes
